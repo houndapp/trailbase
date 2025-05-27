@@ -43,7 +43,7 @@ fallible-iterator = "0.3.0"
 form_urlencoded = "1.2.1"
 futures-util = { version = "0.3", default-features = false, features = ["alloc"] }
 hyper = "1.6.0"
-hyper-util = "0.1.7"
+hyper-util = "0.1"
 indoc = "2.0.5"
 itertools = "0.14.0"
 jsonschema = { version = "0.30.0", default-features = false }
